@@ -1,5 +1,7 @@
 # DigitalLibrary
 
+## Task is not completed but data can be seen in console 
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
 ## Local Development Setup
